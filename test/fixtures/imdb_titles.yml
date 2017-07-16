@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  imdb_id: MyString
+  type: 
+  primaryTitle: MyString
+  originalTitle: MyString
+  startYear: 1
+  endYear: 1
+  runtimeMinutes: 1
+
+two:
+  imdb_id: MyString
+  type: 
+  primaryTitle: MyString
+  originalTitle: MyString
+  startYear: 1
+  endYear: 1
+  runtimeMinutes: 1

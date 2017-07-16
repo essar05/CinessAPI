@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  imdb_id: MyString
+  name: MyString
+  birthYear: 
+  deathYear: 
+
+two:
+  imdb_id: MyString
+  name: MyString
+  birthYear: 
+  deathYear: 
