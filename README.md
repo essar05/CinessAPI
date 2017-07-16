@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Ruby on Rails application that exposes a JSON API inteded to be consumed by a React.JS front-end application.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ciness is intended to be a web application for creating lists of movies you've seen and extracting statistics and suggestions based on that data.
